@@ -1,10 +1,21 @@
 #!/bin/bash
 
-echo "What is your name? " 
+read -p "What is your name? " name
 
-read name
+read -p "What is your Cohort? " cohort
 
-echo "Your name is $name"
+read -p "What is your Score? " score
+
+
+if [ $score -gt 80 ]
+then
+	echo "You are so good, weldone!!!"
+elif [ $score -eq 80 ]
+then
+	echo "You narrowly escaped!! Omoh! Thank God for you"
+else
+	echo "Sorry, you're out"
+fi
 
 
 
