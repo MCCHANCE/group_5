@@ -1,0 +1,12 @@
+Better the program to print out defferals or removals.
+
+Your work is to:
+1) Deffer the Student to an exact cohort if the student is eligble for defferals.
+2) Print out invalid scores, cohort, and return the users name on each print out.
+
+Maximum score is 185.
+Maximum cohort is 14.
+
+
+You should write your anwser in a folder called answers located at the directory named conditionals.
+You can reuse the same code we have used.
