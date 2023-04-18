@@ -1,0 +1,3 @@
+Calculate profit or loss for a seller.
+
+answers in the answer folder.

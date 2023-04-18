@@ -1,0 +1,2 @@
+Print out a simple calculator in C.
+Write your answers in the answer folder.
