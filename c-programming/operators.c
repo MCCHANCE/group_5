@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mai(void);
+int main(void);
 {
 	/*  OPREATORS IN C. */
 
