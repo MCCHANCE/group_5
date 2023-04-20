@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-
-int main()
+int mai(void);
 {
 	/*  OPREATORS IN C. */
 
-	/* LOGICAL OPERATORS 
+	/*
+	 * LOGICAL OPERATORS
 	 * >    = greater than  a > b
 	 * <    = lesser than b
 	 * =    = gets the value of b
-	 * ==   = equal to b 
-	 * */
+	 * ==   = equal to b
+	 */
 
 	int a = 10;
 
@@ -22,7 +22,8 @@ int main()
 
 
 
-	/* ARITHEMETIC OPERATORS
+	/*
+	 * ARITHEMETIC OPERATORS
 	 *
 	 * +  add
 	 * -  sub
@@ -32,17 +33,13 @@ int main()
 	 *       -- decrease by 1
 	 *        % mod - finds the remainder of something.
 	 *
-	 *          */
-	  
+	 */
+
 	int a = 2594;
 
 	int b = 4;
 
 	int c = a % 10;
-	  
+
 	printf("%d", c);
-
-
-
-
 }
